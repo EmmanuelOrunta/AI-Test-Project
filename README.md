@@ -15,7 +15,7 @@ The system translates these questions into executable Python (Pandas) code and r
 ## 📸 Application Demo
 
 ### 🔹 Chat Interface
-![Chat Interface](images/chat interface.png)
+![Chat Interface]("Chat Interface.png")
 
 ### 🔹 Dataset Upload & Preview
 ![Dataset Preview](images/dataset_preview.png)
